@@ -8,10 +8,12 @@ sidebar: get-involved-faq
 title: Frequently Asked Questions
 
 ---
-## Create a Launchpad Account
 
-## Create an Ubuntu MATE Community Account
+## About Ubuntu MATE
 
-## Introduce Yourself in the New Contributor's Thread
+## About the Community
 
-## Explore The Different Ways to Get Involved
+## About Contributing
+
+## Miscellany
+
