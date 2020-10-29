@@ -8,3 +8,6 @@ sidebar: get-involved
 title: Overview
 
 ---
+## Invitation
+## Benefits of Contributing
+## Why We Need You
